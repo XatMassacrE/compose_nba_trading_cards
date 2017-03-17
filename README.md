@@ -220,4 +220,4 @@ def compose(player_img, name, team_logo, category_img, output_name):
 
 OK了，到这里应该就可以结束了，源码可以在  [**这里**](https://www.github.com/XatMassacrE/compose_nba_trading_cards) 得到，里面包含本文所有涉及的图片，素材和代码。
 
-如果各位大兄弟，有更好的设计和布局也欢迎和我交流哈。
+如果各位大兄弟，有更好的设计和布局也欢迎和我交流。
