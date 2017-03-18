@@ -21,13 +21,13 @@ OK 让我们开始吧！
 
 就像开头提到的，我们需要5种素材。这5种素材我都会提供若干个给大家练手。
 
-![](https://dn-mhke0kuv.qbox.me/6d366fe3c567044fe18b)
+![](https://dn-mhke0kuv.qbox.me/c50ee14873b2d19617ef)
 
 上面的图片实际上只有4个素材，还有一个就是球员的名字了，球员的名字我们可以在组合过程中使用 ImageDraw 和 ImageFont 加载球员姓名。
 
 为了避免字体路径和中文乱码的问题，我还提供了一个微软雅黑的字体。
 
-素材可以在 [**这里**](https://www.github.com/XatMassacrE/compose_nba_trading_cards) clone 或者下载，声明：本文所有涉及的素材和图片仅供交流学习使用。
+素材可以在这里 clone 或者下载，声明：本文所有涉及的素材和图片仅供交流学习使用。
 
 ### 开始写代码
 
@@ -159,7 +159,7 @@ def compose(player_img, name, team_logo, category_img, output_name):
 
 OK，让我们来看一看结果怎么样吧
 
-![](https://dn-mhke0kuv.qbox.me/9bd566685119d5996ab9)
+![](https://dn-mhke0kuv.qbox.me/086440bc49ba6578d594)
 
 恩，似乎还不错，但是大家会发现波什的手没了，所以说一马平川什么的都是骗人的。
 
@@ -216,6 +216,6 @@ def compose(player_img, name, team_logo, category_img, output_name):
 
 不错，这样就可以了，尤其是一瞬间跑出来 450 张看起来效果还不错的球星卡还是非常的爽的。
 
-OK了，到这里应该就可以结束了，源码可以在  [**这里**](https://www.github.com/XatMassacrE/compose_nba_trading_cards) 得到，里面包含本文所有涉及的图片，素材和代码。
+OK了，到这里应该就可以结束了，这个仓库包含本文所有涉及的图片，素材和代码。
 
 如果各位大兄弟，有更好的设计和布局也欢迎和我交流。
